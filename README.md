@@ -1,4 +1,4 @@
-# vue-ele-form-gallery | 使 element-ui upload 组件更简单、好用
+# vue-ele-form-gallery | 专为 vue-ele-form 打造的图片/视频展示组件
 
 [![license](https://img.shields.io/npm/l/vue-ele-form-gallery.svg)](https://dream2023.github.io/vue-ele-form-gallery/)
 [![npm](https://img.shields.io/npm/v/vue-ele-form-gallery.svg)](https://www.npmjs.com/package/vue-ele-form-gallery)

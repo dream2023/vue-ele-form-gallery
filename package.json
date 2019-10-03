@@ -1,7 +1,7 @@
 {
   "name": "vue-ele-form-gallery",
   "description": "专为 vue-ele-form 打造的图片/视频展示组件",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "license": "MIT",
   "scripts": {
