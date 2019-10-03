@@ -1,0 +1,8 @@
+node_modules
+public
+vue.config.js
+.eslintrc.js
+postcss.config.js
+babel.config.js
+.editorconfig
+.browserslistrc
